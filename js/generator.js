@@ -1,4 +1,4 @@
-var alphabet = 'abcdefghijfklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ#_.';
+var alphabet = 'abcdefghijfklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$^*_';
 var word = [];
 
 alphabet = alphabet.split('');
